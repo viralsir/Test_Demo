@@ -9,4 +9,3 @@ if no1>no2:
 else :
     print(no2,"is a maximum no")
 
-
